@@ -4,16 +4,6 @@
   ✩°｡⋆⸜🦋⸝⋆｡°✩🌷✩°｡⋆⸜🦋⸝⋆｡°✩🌷✩°｡⋆⸜🦋⸝⋆｡°✩  
 </p>
 
-<div align="center">
-  <strong>🌷 VENICE ANNE 🌷</strong> <br>
-  <strong>BSCS Student at Batangas State University</strong> <br>
-  She/Her/Hers ✨
-</div>
-<br>
-<p align="center">
-✩°｡⋆⸜🦋⸝⋆｡°✩🌷✩°｡⋆⸜🦋⸝⋆｡°✩🌷✩°｡⋆⸜🦋⸝⋆｡°✩  
-</p>
-
 ### 🦋 About Me  
 <blockquote>
 💜 I’m a Computer Science student who loves exploring the world of technology and creativity.  
